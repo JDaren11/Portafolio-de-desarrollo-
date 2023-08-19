@@ -17,4 +17,15 @@ const App = () => {
   );
 };
 
+const siteProps = {
+  name: "Jhoon Arenas",
+  title: "Desarrollador web",
+  email: "jhoondaren11@gmail.com",
+  gitHub: "microsoft",
+  instagram: "microsoft",
+  linkedIn: "null",
+  medium: "",
+  twitter: "microsoft",
+};
+
 export default App;
